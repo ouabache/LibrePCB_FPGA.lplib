@@ -1,0 +1,10 @@
+(librepcb_library d2d82b99-75c8-4f2d-94d6-4d75cb5cc9bb
+ (name "LibrePCB_FPGA.lplib")
+ (description "fpga lib")
+ (keywords "")
+ (author "ouabacheDesignWorks")
+ (version "0.1")
+ (created 2019-10-08T17:45:55Z)
+ (deprecated false)
+ (url "")
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 7d4a821e-b587-4f3d-be0b-220236f666ae
+ (name "xilinx")
+ (description "")
+ (keywords "")
+ (author "ouabacheDesignWorks")
+ (version "0.1")
+ (created 2019-10-08T17:46:15Z)
+ (deprecated false)
+ (parent none)
+)
